@@ -1,0 +1,20 @@
+{
+    "name": "css",
+    "version": "1.0.0",
+    "description": "World Clock Project / CSS",
+    "main": "index.html",
+    "scripts": {
+      "start": "parcel index.html --open",
+      "build": "parcel build index.html"
+    },
+    "dependencies": {
+      "axios": "^1.1.2"
+    },
+    "devDependencies": {
+      "parcel": "^2.0.0"
+    },
+    "keywords": ["weather", "app", "forecast", "dynamic", "api"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
